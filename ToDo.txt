@@ -1,0 +1,11 @@
+ToDo:
+
+activity 1
+-Registrieren - mit eMail, name, passwort, martikelnr (fragment)
+-login -eMail passwort (fragment)
+
+activity 2
+-ausleiheliste	ansehen	(fragment)
+-reservation erstellen	(fragment)
+-reservation löschen	(fragment)
+-server wechseln	(option)
